@@ -7,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrl: './errorservice.component.css'
 })
 export class ErrorserviceComponent {
+mainErrorDescription: string ="";
 
+ShowErrorDescription(error: string)
+{alert('Descrizione Errore: ' + error)}
 }
