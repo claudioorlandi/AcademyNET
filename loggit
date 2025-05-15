@@ -1,0 +1,17 @@
+* commit 3d1ee5c680e71880034ccd889414fa2f945a1b6e
+| Author: claudioorlandi <121494449+claudioorlandi@users.noreply.github.com>
+| Date:   Thu May 15 09:54:02 2025 +0200
+| 
+|     Aggiornamento app.component.ts, aggiunta variabile booleana per controllo login
+| 
+* commit b1c06a4173d5aa5d60ef256bb2d4e3ae239632a5
+| Author: claudioorlandi <g.orlandi@betacom.it>
+| Date:   Wed May 14 17:34:56 2025 +0200
+| 
+|     Eliminato file ts, non uso mai, e aggiunta variabile stringa in app.component
+| 
+* commit 8f13ad443d1ef96decaf19dec673694125fe4aba
+  Author: claudioorlandi <g.orlandi@betacom.it>
+  Date:   Wed May 14 17:07:50 2025 +0200
+  
+      initial commit
